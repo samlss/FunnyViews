@@ -27,3 +27,10 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 
 ## [PeasLoadingView: A peas rotation loading view](https://github.com/samlss/PeasLoadingView)<br>
 ![PeasLoadingView](https://github.com/samlss/PeasLoadingView/blob/master/screenshots/screenshot2.gif)
+<br>
+<br>
+<br>
+
+
+## [ClockLoadingView: A clock loading view](https://github.com/samlss/ClockLoadingView)<br>
+![ClockLoadingView](https://github.com/samlss/ClockLoadingView/blob/master/screenshots/screenshot1.gif)
