@@ -34,3 +34,9 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 
 ## [ClockLoadingView: A clock loading view](https://github.com/samlss/ClockLoadingView)<br>
 ![ClockLoadingView](https://github.com/samlss/ClockLoadingView/blob/master/screenshots/screenshot1.gif)
+<br>
+<br>
+<br>
+
+## [SignalLoadingView: A signal rotation loading view](https://github.com/samlss/SignalLoadingView)<br>
+![ClockLoadingView](https://github.com/samlss/SignalLoadingView/blob/master/screenshots/screenshot1.gif)
