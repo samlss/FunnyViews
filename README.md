@@ -19,7 +19,7 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 <br>
 
 ## [PinBallLoadingView: A pin ball loading view](https://github.com/samlss/PinBallLoadingView)<br>
-![PinBallLoadingView](https://github.com/samlss/PinBallLoadingView/blob/master/screenshots/screenshot1.gif)
+![PinBallLoadingView](https://github.com/samlss/PinBallLoadingView/blob/master/screenshots/screenshot2.gif)
 <br>
 <br>
 <br>
