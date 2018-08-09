@@ -19,7 +19,7 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 <br>
 
 ### [PacmanLoadingView: A pacman loading view](https://github.com/samlss/PacmanLoadingView)<br>
-![PacmanLoadingView](https://github.com/samlss/PacmanLoadingView/blob/master/screenshots/screenshot1.gif)
+![PacmanLoadingView](https://github.com/samlss/PacmanLoadingView/blob/master/screenshots/screenshot4.gif)
 <br>
 <br>
 <br>
