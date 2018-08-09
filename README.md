@@ -32,7 +32,7 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 
 
 ### [PeasLoadingView: A peas rotation loading view](https://github.com/samlss/PeasLoadingView)<br>
-![PeasLoadingView](https://github.com/samlss/PeasLoadingView/blob/master/screenshots/screenshot2.gif)
+![PeasLoadingView](https://github.com/samlss/PeasLoadingView/blob/master/screenshots/screenshot3.gif)
 <br>
 <br>
 <br>
