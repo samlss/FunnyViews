@@ -46,8 +46,20 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 
 ## [SignalLoadingView: A signal rotation loading view](https://github.com/samlss/SignalLoadingView)<br>
 ![ClockLoadingView](https://github.com/samlss/SignalLoadingView/blob/master/screenshots/screenshot1.gif)
+<br>
+<br>
+<br>
+
+## [JumboLoadingView: A loading(progress) view that you can select different shapes](dingView)<br>
+![screenshot_circle](https://github.com/samlss/JumboLoadingView/blob/master/screenshots/screenshot_circle.gif)
+![screenshot_square](https://github.com/samlss/JumboLoadingView/blob/master/screenshots/screenshot_square.gif)
+![screenshot_triangel](https://github.com/samlss/JumboLoadingView/blob/master/screenshots/screenshot_triangel.gif)
+![screenshot_star](https://github.com/samlss/JumboLoadingView/blob/master/screenshots/screenshot_star.gif)
+
 
 ### You can add my wechat by scanning the below QR code:
 ![WeChat](https://github.com/samlss/FunnyLoadingViews/blob/master/wechat.jpg)
+
+
 
 
