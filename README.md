@@ -52,7 +52,7 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 <br>
 <br>
 
-### [JumboLoadingView: A loading(progress) view that you can select different shapes](dingView)<br>
+### [JumboLoadingView: A loading(progress) view that you can select different shapes](https://github.com/samlss/JumboLoadingView)<br>
 ![screenshot_circle](https://github.com/samlss/JumboLoadingView/blob/master/screenshots/screenshot_circle.gif)
 ![screenshot_square](https://github.com/samlss/JumboLoadingView/blob/master/screenshots/screenshot_square.gif)
 ![screenshot_triangel](https://github.com/samlss/JumboLoadingView/blob/master/screenshots/screenshot_triangel.gif)
