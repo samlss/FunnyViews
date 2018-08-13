@@ -57,6 +57,12 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 ![screenshot_square](https://github.com/samlss/JumboLoadingView/blob/master/screenshots/screenshot_square.gif)
 ![screenshot_triangel](https://github.com/samlss/JumboLoadingView/blob/master/screenshots/screenshot_triangel.gif)
 ![screenshot_star](https://github.com/samlss/JumboLoadingView/blob/master/screenshots/screenshot_star.gif)
+<br>
+<br>
+<br>
+
+### [DonutProgressView: A progress view that you can use it when you are loading picture](https://github.com/samlss/DonutProgressView)<br>
+![DonutProgressView](https://github.com/samlss/DonutProgressView/blob/master/screenshots/screenshot1.gif)
 
 
 ### You can add my wechat by scanning the below QR code:
