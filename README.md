@@ -63,6 +63,15 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 
 ### [DonutProgressView: A progress view that you can use it when you are loading picture](https://github.com/samlss/DonutProgressView)<br>
 ![DonutProgressView](https://github.com/samlss/DonutProgressView/blob/master/screenshots/screenshot1.gif)
+<br>
+<br>
+<br>
+
+### [FanLoadingView: A fan rotation loading view](https://github.com/samlss/FanLoadingView)<br>
+![FanLoadingView](https://github.com/samlss/FanLoadingView/blob/master/screenshots/screenshot1.gif)
+<br>
+<br>
+<br>
 
 
 ### You can add my wechat by scanning the below QR code:
