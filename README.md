@@ -12,10 +12,10 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 <br>
 <br>
 
-### [ClcokView: A lovely clock view](https://github.com/samlss/ClcokView)<br>
-![ClcokView](https://github.com/samlss/ClcokView/blob/master/screenshots/screenshot1.gif)
+### [ClockView: A lovely clock view](https://github.com/samlss/ClockView)<br>
+![ClcokView](https://github.com/samlss/ClockView/blob/master/screenshots/screenshot1.gif)
 <br>
-![ClcokView](https://github.com/samlss/ClcokView/blob/master/screenshots/screenshot2.gif)
+![ClcokView](https://github.com/samlss/ClockView/blob/master/screenshots/screenshot2.gif)
 <br>
 <br>
 <br>
