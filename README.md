@@ -1,4 +1,4 @@
-# FunnyLoadingViews
+# FunnygViews
 
 ## [中文](https://blog.csdn.net/samlss/article/details/81189576)<br>
 
