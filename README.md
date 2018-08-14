@@ -2,7 +2,7 @@
 
 ## [中文](https://blog.csdn.net/samlss/article/details/81189576)<br>
 
-A lot of funny loading views,will continue to update.
+A lot of funny views,will continue to update.
 
 If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 
