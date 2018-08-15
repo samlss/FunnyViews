@@ -77,6 +77,12 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 <br>
 <br>
 
+### [CircleProgressView:A simple circle progress view](https://github.com/samlss/CircleProgressView)<br>
+![CircleProgressView](https://github.com/samlss/CircleProgressView/blob/master/screenshots/screenshot1.gif)
+<br>
+<br>
+<br>
+
 ### [FanLoadingView: A fan rotation loading view](https://github.com/samlss/FanLoadingView)<br>
 ![FanLoadingView](https://github.com/samlss/FanLoadingView/blob/master/screenshots/screenshot1.gif)
 <br>
