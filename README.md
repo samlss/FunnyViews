@@ -4,6 +4,8 @@
 
 A lot of funny views in android, include loading view, progress view, and so on, and i will continue to develop.
 
+When i constructing these views, i didn't use any picture data, and i am using Android's native api to paint them.
+
 If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 
 ### [DayNightLoadingView: A loading view that switches between day and night](https://github.com/samlss/DayNightLoadingView)<br>
