@@ -93,6 +93,12 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 <br>
 <br>
 
+### [WhirlLoadingView: A loading view that includes two rotating arcs](https://github.com/samlss/WhirlLoadingView)<br>
+![WhirlLoadingView](https://github.com/samlss/WhirlLoadingView/blob/master/screenshots/screenshot.gif)
+<br>
+<br>
+<br>
+
 
 ### You can add my wechat by scanning the below QR code:
 ![WeChat](https://github.com/samlss/FunnyLoadingViews/blob/master/wechat.jpg)
