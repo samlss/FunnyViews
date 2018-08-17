@@ -138,6 +138,6 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 <br>
 
 # Add WeChart Friend
-##### You can add my wechat by scanning the below QR code:
+#### You can add my wechat by scanning the below QR code:
 ![WeChat](https://github.com/samlss/FunnyLoadingViews/blob/master/wechat.jpg)
 
