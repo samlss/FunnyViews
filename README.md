@@ -33,6 +33,9 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 * [ChargingViews](#chargingviews)
   * [ChargingView: A simple charging view](#chargingview-a-simple-charging-view)
 * [Add WeChart Friend](#add-wechart-friend)
+* [Instructions for use](#instructions-for-use)
+* [License](#license)
+
 
 ---
 
@@ -140,4 +143,10 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 # Add WeChart Friend
 #### You can add my wechat by scanning the below QR code:
 ![WeChat](https://github.com/samlss/FunnyLoadingViews/blob/master/wechat.jpg)
+
+# Instructions for use
+#### When you use one of the projects, star and feedback are recognition and the best support for my development, thank you.
+
+# License
+#### Each individual project has a corresponding license, you can go to the relevant project to read the license.
 
