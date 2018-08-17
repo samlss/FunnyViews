@@ -32,7 +32,7 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
   * [CircleProgressView:A simple circle progress view](#circleprogressviewa-simple-circle-progress-view)
 * [ChargingViews](#chargingviews)
   * [ChargingView: A simple charging view](#chargingview-a-simple-charging-view)
-* [Add WeChart Friend](#add-wechart-friend)
+* [Add WeChat Friend](#add-wechat-friend)
 * [Instructions for use](#instructions-for-use)
 * [License](#license)
 
@@ -140,7 +140,7 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 <br>
 <br>
 
-# Add WeChart Friend
+# Add WeChat Friend
 #### You can add my wechat by scanning the below QR code:
 ![WeChat](https://github.com/samlss/FunnyLoadingViews/blob/master/wechat.jpg)
 
