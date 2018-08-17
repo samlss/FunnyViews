@@ -1,6 +1,6 @@
 # FunnyViews
 
-## [中文](https://blog.csdn.net/samlss/article/details/81189576)<br>
+## [中文](https://github.com/samlss/FunnyViews/blob/master/README-Chinese.md)<br>
 
 ---
 
