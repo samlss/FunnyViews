@@ -140,12 +140,12 @@
 <br>
 
 # 微信信信
-#### You can add my wechat by scanning the below QR code:
+#### 你可以扫一下二维码加我好友:
 ![WeChat](https://github.com/samlss/FunnyLoadingViews/blob/master/wechat.jpg)
 
 # 使用说明
-#### When you use one of the projects, star and feedback are recognition and the best support for my development, thank you.
+#### 当你使用其中一个项目的时候, star和反馈是对我开发的认可和支持，谢谢
 
 # License
-#### Each individual project has a corresponding license, you can go to the relevant project to read the license.
+#### 每个的项目都有对应的license，你可以进入某一个项目进行查看
 
