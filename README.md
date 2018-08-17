@@ -2,7 +2,7 @@
 
 ## [中文](https://blog.csdn.net/samlss/article/details/81189576)<br>
 
-Inspired by everyday life， programming is also.
+Inspired by everyday life, programming is also.
 
 When i find some interesting views in the daily life, i will record and code them down.
 
