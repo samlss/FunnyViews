@@ -1,5 +1,7 @@
 # FunnyViews
 
+## Rome was not built in one day
+
 ## [中文](https://github.com/samlss/FunnyViews/blob/master/README-Chinese.md)<br>
 
 ---
