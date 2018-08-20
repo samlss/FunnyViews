@@ -30,6 +30,7 @@
 * [进度类](#%E8%BF%9B%E5%BA%A6%E7%B1%BB)
   * [JumboLoadingView: 一个可以选择形状并且可设置进度的view](#jumboloadingview-%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BB%A5%E9%80%89%E6%8B%A9%E5%BD%A2%E7%8A%B6%E5%B9%B6%E4%B8%94%E5%8F%AF%E8%AE%BE%E7%BD%AE%E8%BF%9B%E5%BA%A6%E7%9A%84view-1)
   * [DonutProgressView: 一个简洁的进度view](#donutprogressview-%E4%B8%80%E4%B8%AA%E7%AE%80%E6%B4%81%E7%9A%84%E8%BF%9B%E5%BA%A6view)
+   * [CubeLoadingView:一个立体3D旋转的loading view](#cubeloadingview%E4%B8%80%E4%B8%AA%E7%AB%8B%E4%BD%933d%E6%97%8B%E8%BD%AC%E7%9A%84loading-view)
   * [CircleProgressView:一个简约的圆圈进度view](#circleprogressview%E4%B8%80%E4%B8%AA%E7%AE%80%E7%BA%A6%E7%9A%84%E5%9C%86%E5%9C%88%E8%BF%9B%E5%BA%A6view)
 * [充电类](#%E5%85%85%E7%94%B5%E7%B1%BB)
   * [ChargingView: 一个简单的充电view](#chargingview-%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%85%85%E7%94%B5view)
@@ -111,6 +112,11 @@
 <br>
 <br>
 
+## [CubeLoadingView:一个立体3D旋转的loading view](https://github.com/samlss/CubeLoadingView)<br>
+![WhirlLoadingView](https://github.com/samlss/CubeLoadingView/blob/master/screenshots/screenshot1.gif)
+<br>
+<br>
+<br>
 
 # 进度类
 ## [JumboLoadingView: 一个可以选择形状并且可设置进度的view](https://github.com/samlss/JumboLoadingView)<br>
