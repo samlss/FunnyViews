@@ -28,7 +28,7 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
   * [JumboLoadingView: A loading(progress) view that you can select different shapes](#jumboloadingview-a-loadingprogress-view-that-you-can-select-different-shapes)
   * [FanLoadingView: A fan rotation loading view](#fanloadingview-a-fan-rotation-loading-view)
   * [WhirlLoadingView: A loading view that includes two rotating arcs](#whirlloadingview-a-loading-view-that-includes-two-rotating-arcs)
-  * [CubeLoadingView: A cube 3D rotation loading view](#cubeLoadingView-a-cube-3d-rotation-loading-view)
+  * [CubeLoadingView: A cube 3D rotation loading view](#cubeLoadingview-a-cube-3d-rotation-loading-view)
 * [ProgressViews](#progressviews)
   * [JumboLoadingView: A loading(progress) view that you can select different shapes](#jumboloadingview-a-loadingprogress-view-that-you-can-select-different-shapes-1)
   * [DonutProgressView: A progress view that you can use it when you are loading picture](#donutprogressview-a-progress-view-that-you-can-use-it-when-you-are-loading-picture)
