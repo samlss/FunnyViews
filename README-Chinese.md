@@ -148,7 +148,7 @@
 <br>
 <br>
 
-## [[PowerView: 一个简约的充电view](https://github.com/samlss/PowerView)<br>
+## [PowerView: 一个简约的充电view](https://github.com/samlss/PowerView)<br>
 ![PowerView](https://github.com/samlss/PowerView/blob/master/screenshots/screenshot1.gif)<br/>
 ![PowerView](https://github.com/samlss/PowerView/blob/master/screenshots/screenshot2.gif)
 <br>
