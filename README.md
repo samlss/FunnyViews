@@ -150,8 +150,8 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 <br>
 
 ## [PowerView: A pretty charging view](https://github.com/samlss/PowerView)<br>
-![PowerView](https://github.com/samlss/PowerView/blob/master/screenshots/screenshot2.gif)<br/>
-![PowerView](https://github.com/samlss/PowerView/blob/master/screenshots/screenshot1.gif)
+![PowerView](https://github.com/samlss/PowerView/blob/master/screenshots/screenshot1.gif)<br/>
+![PowerView](https://github.com/samlss/PowerView/blob/master/screenshots/screenshot2.gif)
 <br>
 <br>
 <br>
