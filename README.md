@@ -35,7 +35,6 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
   * [CircleProgressView:A simple circle progress view](#circleprogressviewa-simple-circle-progress-view)
 * [ChargingViews](#chargingviews)
   * [ChargingView: A simple charging view](#chargingview-a-simple-charging-view)
-* [PowerView](#powerview)
   * [PowerView: A pretty charging view](#powerview-a-pretty-charging-view)  
 * [Add WeChat Friend](#add-wechat-friend)
 * [Instructions for use](#instructions-for-use)
