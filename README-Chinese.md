@@ -34,6 +34,7 @@
   * [CircleProgressView:一个简约的圆圈进度view](#circleprogressview%E4%B8%80%E4%B8%AA%E7%AE%80%E7%BA%A6%E7%9A%84%E5%9C%86%E5%9C%88%E8%BF%9B%E5%BA%A6view)
 * [充电类](#%E5%85%85%E7%94%B5%E7%B1%BB)
   * [ChargingView: 一个简单的充电view](#chargingview-%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%85%85%E7%94%B5view)
+  * [PowerView: 一个简约的充电view](#powerview-%E4%B8%80%E4%B8%AA%E7%AE%80%E7%BA%A6%E7%9A%84%E5%85%85%E7%94%B5view)
 * [微信信信](#%E5%BE%AE%E4%BF%A1%E4%BF%A1%E4%BF%A1)
 * [使用说明](#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
 * [License](#license)
@@ -143,6 +144,13 @@
 # 充电类
 ## [ChargingView: 一个简单的充电view](https://github.com/samlss/ChargingView)<br>
 ![ChargingView](https://github.com/samlss/ChargingView/blob/master/screenshot/screenshot1.gif)
+<br>
+<br>
+<br>
+
+## [[PowerView: 一个简约的充电view](https://github.com/samlss/PowerView)<br>
+![PowerView](https://github.com/samlss/PowerView/blob/master/screenshots/screenshot1.gif)<br/>
+![PowerView](https://github.com/samlss/PowerView/blob/master/screenshots/screenshot2.gif)
 <br>
 <br>
 <br>
