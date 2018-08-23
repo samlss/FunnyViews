@@ -28,6 +28,7 @@
   * [FanLoadingView: 一个风扇旋转的loading view](#fanloadingview-%E4%B8%80%E4%B8%AA%E9%A3%8E%E6%89%87%E6%97%8B%E8%BD%AC%E7%9A%84loading-view)
   * [WhirlLoadingView: 一个包含两条圆弧互相旋转的loading view](#whirlloadingview-%E4%B8%80%E4%B8%AA%E5%8C%85%E5%90%AB%E4%B8%A4%E6%9D%A1%E5%9C%86%E5%BC%A7%E4%BA%92%E7%9B%B8%E6%97%8B%E8%BD%AC%E7%9A%84loading-view)
   * [CubeLoadingView:一个立体3D旋转的loading view](#cubeloadingview%E4%B8%80%E4%B8%AA%E7%AB%8B%E4%BD%933d%E6%97%8B%E8%BD%AC%E7%9A%84loading-view)
+  * [DiceLoadingView:一个骰子3D旋转loading view](#diceloadingview%E4%B8%80%E4%B8%AA%E9%AA%B0%E5%AD%903d%E6%97%8B%E8%BD%ACloading-view)
 * [进度类](#%E8%BF%9B%E5%BA%A6%E7%B1%BB)
   * [JumboLoadingView: 一个可以选择形状并且可设置进度的view](#jumboloadingview-%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BB%A5%E9%80%89%E6%8B%A9%E5%BD%A2%E7%8A%B6%E5%B9%B6%E4%B8%94%E5%8F%AF%E8%AE%BE%E7%BD%AE%E8%BF%9B%E5%BA%A6%E7%9A%84view-1)
   * [DonutProgressView: 一个简洁的进度view](#donutprogressview-%E4%B8%80%E4%B8%AA%E7%AE%80%E6%B4%81%E7%9A%84%E8%BF%9B%E5%BA%A6view)
@@ -115,6 +116,13 @@
 
 ## [CubeLoadingView:一个立体3D旋转的loading view](https://github.com/samlss/CubeLoadingView)<br>
 ![WhirlLoadingView](https://github.com/samlss/CubeLoadingView/blob/master/screenshots/screenshot1.gif)
+<br>
+<br>
+<br>
+
+## [DiceLoadingView:一个骰子3D旋转loading view](https://github.com/samlss/DiceLoadingView)<br>
+![DiceLoadingView](https://github.com/samlss/DiceLoadingView/blob/master/screenshots/screenshot1.gif)<br>
+![DiceLoadingView](https://github.com/samlss/DiceLoadingView/blob/master/screenshots/screenshot2.gif)
 <br>
 <br>
 <br>
