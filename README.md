@@ -122,7 +122,7 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 <br>
 
 ## [DiceLoadingView: A dice 3D rotation loading view](https://github.com/samlss/DiceLoadingView)<br>
-![DiceLoadingView](https://github.com/samlss/DiceLoadingView/blob/master/screenshots/screenshot1.gif)
+![DiceLoadingView](https://github.com/samlss/DiceLoadingView/blob/master/screenshots/screenshot1.gif)<br>
 ![DiceLoadingView](https://github.com/samlss/DiceLoadingView/blob/master/screenshots/screenshot2.gif)
 <br>
 <br>
