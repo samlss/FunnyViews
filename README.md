@@ -130,8 +130,8 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 <br>
 
 ## [BarChartLoadingView: A bar chart loading view that you can specify the number of bars](https://github.com/samlss/BarChartLoadingView)<br>
-![DiceLoadingView](https://github.com/samlss/BarChartLoadingView/blob/master/screenshots/screenshot1.gif)<br>
-![DiceLoadingView](https://github.com/samlss/BarChartLoadingView/blob/master/screenshots/screenshot2.gif)
+![BarChartLoadingView](https://github.com/samlss/BarChartLoadingView/blob/master/screenshots/screenshot1.gif)<br>
+![BarChartLoadingView](https://github.com/samlss/BarChartLoadingView/blob/master/screenshots/screenshot2.gif)
 <br>
 <br>
 <br>
