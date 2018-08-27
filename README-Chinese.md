@@ -128,7 +128,7 @@
 <br>
 <br>
 
-## [DiceLoadingView:一个骰子3D旋转loading view](BarChartLoadingView:一个可以指定条形数量的条形图loading view)<br>
+## [BarChartLoadingView:一个可以指定条形数量的条形图loading view](https://github.com/samlss/BarChartLoadingView)<br>
 ![BarChartLoadingView](https://github.com/samlss/BarChartLoadingView/blob/master/screenshots/screenshot1.gif)<br>
 ![BarChartLoadingView](https://github.com/samlss/BarChartLoadingView/blob/master/screenshots/screenshot2.gif)
 <br>
