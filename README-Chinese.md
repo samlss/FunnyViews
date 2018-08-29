@@ -30,6 +30,7 @@
   * [CubeLoadingView:一个立体3D旋转的loading view](#cubeloadingview%E4%B8%80%E4%B8%AA%E7%AB%8B%E4%BD%933d%E6%97%8B%E8%BD%AC%E7%9A%84loading-view)
   * [DiceLoadingView:一个骰子3D旋转loading view](#diceloadingview%E4%B8%80%E4%B8%AA%E9%AA%B0%E5%AD%903d%E6%97%8B%E8%BD%ACloading-view)
   * [BarChartLoadingView:一个可以指定条形数量的条形图loading view](#barchartloadingview%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BB%A5%E6%8C%87%E5%AE%9A%E6%9D%A1%E5%BD%A2%E6%95%B0%E9%87%8F%E7%9A%84%E6%9D%A1%E5%BD%A2%E5%9B%BEloading-view)
+  * [BallsLoadingView：一个包含四个做循环动画的小球的loading view](#ballsloadingview%E4%B8%80%E4%B8%AA%E5%8C%85%E5%90%AB%E5%9B%9B%E4%B8%AA%E5%81%9A%E5%BE%AA%E7%8E%AF%E5%8A%A8%E7%94%BB%E7%9A%84%E5%B0%8F%E7%90%83%E7%9A%84loading-view)
 * [进度类](#%E8%BF%9B%E5%BA%A6%E7%B1%BB)
   * [JumboLoadingView: 一个可以选择形状并且可设置进度的view](#jumboloadingview-%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BB%A5%E9%80%89%E6%8B%A9%E5%BD%A2%E7%8A%B6%E5%B9%B6%E4%B8%94%E5%8F%AF%E8%AE%BE%E7%BD%AE%E8%BF%9B%E5%BA%A6%E7%9A%84view-1)
   * [DonutProgressView: 一个简洁的进度view](#donutprogressview-%E4%B8%80%E4%B8%AA%E7%AE%80%E6%B4%81%E7%9A%84%E8%BF%9B%E5%BA%A6view)
@@ -135,6 +136,12 @@
 <br>
 <br>
 
+## [BallsLoadingView：一个包含四个做循环动画的小球的loading view](https://github.com/samlss/BallsLoadingView)<br>
+![BallsLoadingView](https://github.com/samlss/BallsLoadingView/blob/master/screenshots/screenshot1.gif)<br>
+![BallsLoadingView](https://github.com/samlss/BallsLoadingView/blob/master/screenshots/screenshot2.gif)
+<br>
+<br>
+<br>
 
 # 进度类
 ## [JumboLoadingView: 一个可以选择形状并且可设置进度的view](https://github.com/samlss/JumboLoadingView)<br>
