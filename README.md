@@ -138,8 +138,8 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 <br>
 
 ## [BallsLoadingView: A loading view that includes four balls for animating](https://github.com/samlss/BallsLoadingView)<br>
-![BarChartLoadingView](https://github.com/samlss/BallsLoadingView/blob/master/screenshots/screenshot1.gif)<br>
-![BarChartLoadingView](https://github.com/samlss/BallsLoadingView/blob/master/screenshots/screenshot2.gif)
+![BallsLoadingView](https://github.com/samlss/BallsLoadingView/blob/master/screenshots/screenshot1.gif)<br>
+![BallsLoadingView](https://github.com/samlss/BallsLoadingView/blob/master/screenshots/screenshot2.gif)
 <br>
 <br>
 <br>
