@@ -31,6 +31,7 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
   * [CubeLoadingView: A cube 3D rotation loading view](#cubeloadingview-a-cube-3d-rotation-loading-view)
   * [DiceLoadingView: A dice 3D rotation loading view](#diceloadingview-a-dice-3d-rotation-loading-view)
   * [BarChartLoadingView: A bar chart loading view that you can specify the number of bars](#barchartloadingview-a-bar-chart-loading-view-that-you-can-specify-the-number-of-bars)
+  * [BallsLoadingView: A loading view that includes four balls for animating](#ballsloadingview-a-loading-view-that-includes-four-balls-for-animating)
 * [ProgressViews](#progressviews)
   * [JumboLoadingView: A loading(progress) view that you can select different shapes](#jumboloadingview-a-loadingprogress-view-that-you-can-select-different-shapes-1)
   * [DonutProgressView: A progress view that you can use it when you are loading picture](#donutprogressview-a-progress-view-that-you-can-use-it-when-you-are-loading-picture)
@@ -135,6 +136,15 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 <br>
 <br>
 <br>
+
+## [BallsLoadingView: A loading view that includes four balls for animating](https://github.com/samlss/BallsLoadingView)<br>
+![BarChartLoadingView](https://github.com/samlss/BallsLoadingView/blob/master/screenshots/screenshot1.gif)<br>
+![BarChartLoadingView](https://github.com/samlss/BallsLoadingView/blob/master/screenshots/screenshot2.gif)
+<br>
+<br>
+<br>
+
+
 
 # ProgressViews
 ## [JumboLoadingView: A loading(progress) view that you can select different shapes](https://github.com/samlss/JumboLoadingView)<br>
