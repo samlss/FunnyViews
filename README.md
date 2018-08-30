@@ -146,8 +146,7 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 <br>
 
 ## [IntertwineLoadingView: A two intertwined balls loading view](https://github.com/samlss/IntertwineLoadingView)<br>
-![IntertwineLoadingView](https://github.com/samlss/IntertwineLoadingView/blob/master/screenshots/screenshot1.gif)<br>
-![IntertwineLoadingView](https://github.com/samlss/IntertwineLoadingView/blob/master/screenshots/screenshot2.gif)
+![IntertwineLoadingView](https://github.com/samlss/IntertwineLoadingView/blob/master/screenshots/screenshot1.gif)
 <br>
 <br>
 <br>
