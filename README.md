@@ -32,6 +32,7 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
   * [DiceLoadingView: A dice 3D rotation loading view](#diceloadingview-a-dice-3d-rotation-loading-view)
   * [BarChartLoadingView: A bar chart loading view that you can specify the number of bars](#barchartloadingview-a-bar-chart-loading-view-that-you-can-specify-the-number-of-bars)
   * [BallsLoadingView: A loading view that includes four balls for animating](#ballsloadingview-a-loading-view-that-includes-four-balls-for-animating)
+  * [IntertwineLoadingView: A two intertwined balls loading view](#intertwineloadingview-a-two-intertwined-balls-loading-view)
 * [ProgressViews](#progressviews)
   * [JumboLoadingView: A loading(progress) view that you can select different shapes](#jumboloadingview-a-loadingprogress-view-that-you-can-select-different-shapes-1)
   * [DonutProgressView: A progress view that you can use it when you are loading picture](#donutprogressview-a-progress-view-that-you-can-use-it-when-you-are-loading-picture)
@@ -144,6 +145,12 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 <br>
 <br>
 
+## [IntertwineLoadingView: A two intertwined balls loading view](https://github.com/samlss/IntertwineLoadingView)<br>
+![IntertwineLoadingView](https://github.com/samlss/IntertwineLoadingView/blob/master/screenshots/screenshot1.gif)<br>
+![IntertwineLoadingView](https://github.com/samlss/IntertwineLoadingView/blob/master/screenshots/screenshot2.gif)
+<br>
+<br>
+<br>
 
 
 # ProgressViews
