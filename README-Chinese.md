@@ -18,6 +18,7 @@
 * [时钟类](#%E6%97%B6%E9%92%9F%E7%B1%BB)
   * [ClockView: 一个可爱的时钟](#clockview-%E4%B8%80%E4%B8%AA%E5%8F%AF%E7%88%B1%E7%9A%84%E6%97%B6%E9%92%9F)
 * [加载中类](#%E5%8A%A0%E8%BD%BD%E4%B8%AD%E7%B1%BB)
+  * [CoffeeView：一杯咖啡的loading view](#coffeeview%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1%E7%9A%84loading-view)
   * [DayNightLoadingView: 一个日夜轮换的loading view](#daynightloadingview-%E4%B8%80%E4%B8%AA%E6%97%A5%E5%A4%9C%E8%BD%AE%E6%8D%A2%E7%9A%84loading-view)
   * [PacmanLoadingView: 一个吃豆豆的loading view](#pacmanloadingview-%E4%B8%80%E4%B8%AA%E5%90%83%E8%B1%86%E8%B1%86%E7%9A%84loading-view)
   * [PinBallLoadingView: 一个弹球球loading view](#pinballloadingview-%E4%B8%80%E4%B8%AA%E5%BC%B9%E7%90%83%E7%90%83loading-view)
@@ -58,6 +59,13 @@
 
 
 # 加载中类
+## [CoffeeView：一杯咖啡的loading view](https://github.com/samlss/CoffeeView)<br>
+![CoffeeView](https://github.com/samlss/CoffeeView/blob/master/screenshots/screenshot1.gif)<br>
+![CoffeeView](https://github.com/samlss/CoffeeView/blob/master/screenshots/screenshot2.gif)
+<br>
+<br>
+<br>
+
 ## [DayNightLoadingView: 一个日夜轮换的loading view](https://github.com/samlss/DayNightLoadingView)<br>
 ![DayNightLoadingView](https://github.com/samlss/DayNightLoadingView/blob/master/screenshots/screenshot1.gif)
 <br>
