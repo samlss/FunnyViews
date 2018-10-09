@@ -20,6 +20,7 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
   * [ClockView: A lovely clock view](#clockview-a-lovely-clock-view)
 * [LoadingViews](#loadingviews)
   * [CoffeeView: A cup of coffee loading view](#coffeeview-a-cup-of-coffee-loading-view)
+  * [FlaskView: A flask loading view](#flaskview-a-flask-loading-view)
   * [DayNightLoadingView: A loading view that switches between day and night](#daynightloadingview-a-loading-view-that-switches-between-day-and-night)
   * [PacmanLoadingView: A pacman loading view](#pacmanloadingview-a-pacman-loading-view)
   * [PinBallLoadingView: A pin ball loading view](#pinballloadingview-a-pin-ball-loading-view)
@@ -63,6 +64,13 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 ## [CoffeeView: A cup of coffee loading view](https://github.com/samlss/CoffeeView)<br>
 ![CoffeeView](https://github.com/samlss/CoffeeView/blob/master/screenshots/screenshot1.gif)<br>
 ![CoffeeView](https://github.com/samlss/CoffeeView/blob/master/screenshots/screenshot2.gif)
+<br>
+<br>
+<br>
+
+## [FlaskView: A flask loading view](https://github.com/samlss/FlaskView)<br>
+![CoffeeView](https://github.com/samlss/FlaskView/blob/master/screenshots/screenshot1.gif)<br>
+![CoffeeView](https://github.com/samlss/FlaskView/blob/master/screenshots/screenshot2.gif)
 <br>
 <br>
 <br>
