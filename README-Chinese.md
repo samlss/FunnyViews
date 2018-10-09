@@ -67,7 +67,7 @@
 <br>
 <br>
 
-## [FlaskView: 一个烧瓶loading view](https://github.com/samlss/FlaskView)<br>
+## [FlaskView：一个烧瓶loading view](https://github.com/samlss/FlaskView)<br>
 ![CoffeeView](https://github.com/samlss/FlaskView/blob/master/screenshots/screenshot1.gif)<br>
 ![CoffeeView](https://github.com/samlss/FlaskView/blob/master/screenshots/screenshot2.gif)
 <br>
