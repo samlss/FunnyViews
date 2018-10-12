@@ -21,6 +21,7 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 * [LoadingViews](#loadingviews)
   * [CoffeeView: A cup of coffee loading view](#coffeeview-a-cup-of-coffee-loading-view)
   * [FlaskView: A flask loading view](#flaskview-a-flask-loading-view)
+  * [RainyView: A rainy view](#rainyview-a-rainy-view)
   * [DayNightLoadingView: A loading view that switches between day and night](#daynightloadingview-a-loading-view-that-switches-between-day-and-night)
   * [PacmanLoadingView: A pacman loading view](#pacmanloadingview-a-pacman-loading-view)
   * [PinBallLoadingView: A pin ball loading view](#pinballloadingview-a-pin-ball-loading-view)
@@ -74,6 +75,13 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 <br>
 <br>
 <br>
+
+## [RainyView: A rainy view](https://github.com/samlss/RainyView)<br>
+![CoffeeView](https://github.com/samlss/RainyView/blob/master/screenshots/screenshot1.gif)
+<br>
+<br>
+<br>
+
 
 ## [DayNightLoadingView: A loading view that switches between day and night](https://github.com/samlss/DayNightLoadingView)<br>
 ![DayNightLoadingView](https://github.com/samlss/DayNightLoadingView/blob/master/screenshots/screenshot1.gif)
