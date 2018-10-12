@@ -20,6 +20,7 @@
 * [加载中类](#%E5%8A%A0%E8%BD%BD%E4%B8%AD%E7%B1%BB)
   * [CoffeeView：一杯咖啡的loading view](#coffeeview%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1%E7%9A%84loading-view)
   * [FlaskView：一个烧瓶loading view](#flaskview%E4%B8%80%E4%B8%AA%E7%83%A7%E7%93%B6loading-view)
+  * [RainyView: 一个下雨view](#rainyview-%E4%B8%80%E4%B8%AA%E4%B8%8B%E9%9B%A8view)
   * [DayNightLoadingView: 一个日夜轮换的loading view](#daynightloadingview-%E4%B8%80%E4%B8%AA%E6%97%A5%E5%A4%9C%E8%BD%AE%E6%8D%A2%E7%9A%84loading-view)
   * [PacmanLoadingView: 一个吃豆豆的loading view](#pacmanloadingview-%E4%B8%80%E4%B8%AA%E5%90%83%E8%B1%86%E8%B1%86%E7%9A%84loading-view)
   * [PinBallLoadingView: 一个弹球球loading view](#pinballloadingview-%E4%B8%80%E4%B8%AA%E5%BC%B9%E7%90%83%E7%90%83loading-view)
@@ -68,8 +69,14 @@
 <br>
 
 ## [FlaskView：一个烧瓶loading view](https://github.com/samlss/FlaskView)<br>
-![CoffeeView](https://github.com/samlss/FlaskView/blob/master/screenshots/screenshot1.gif)<br>
-![CoffeeView](https://github.com/samlss/FlaskView/blob/master/screenshots/screenshot2.gif)
+![FlaskView](https://github.com/samlss/FlaskView/blob/master/screenshots/screenshot1.gif)<br>
+![FlaskView](https://github.com/samlss/FlaskView/blob/master/screenshots/screenshot2.gif)
+<br>
+<br>
+<br>
+
+## [RainyView: 一个下雨view](https://github.com/samlss/RainyView)<br>
+![RainyView](https://github.com/samlss/RainyView/blob/master/screenshots/screenshot1.gif)
 <br>
 <br>
 <br>
