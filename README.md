@@ -43,6 +43,8 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 * [ChargingViews](#chargingviews)
   * [ChargingView: A simple charging view](#chargingview-a-simple-charging-view)
   * [PowerView: A pretty charging view](#powerview-a-pretty-charging-view)  
+* [Others](#others)
+  * [Bling: A shapes fall effect library for android](#bling-a-shapes-fall-effect-library-for-android)
 * [Add WeChat Friend](#add-wechat-friend)
 * [Instructions for use](#instructions-for-use)
 * [License](#license)
@@ -212,11 +214,13 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 <br>
 <br>
 
+# Others
+## [Bling: A shapes fall effect library for android](https://github.com/samlss/Bling)<br>
+![Bling](https://github.com/samlss/Bling/blob/master/screenshots/screenshot5.gif)
+<br>
+<br>
+<br>
 
-
-# Add WeChat Friend
-#### You can add my wechat by scanning the below QR code:
-![WeChat](https://github.com/samlss/FunnyLoadingViews/blob/master/wechat.jpg)
 
 # Instructions for use
 #### When you use one of the projects, star and feedback are recognition and the best support for my development, thank you.
