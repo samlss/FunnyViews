@@ -1,4 +1,4 @@
-# FunnyViews
+![FunnyViews](https://github.com/samlss/FunnyViews/blob/master/logo.png)
 
 ## Rome was not built in one day
 
