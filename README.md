@@ -45,7 +45,6 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
   * [PowerView: A pretty charging view](#powerview-a-pretty-charging-view)  
 * [Others](#others)
   * [Bling: A shapes fall effect library for android](#bling-a-shapes-fall-effect-library-for-android)
-* [Add WeChat Friend](#add-wechat-friend)
 * [Instructions for use](#instructions-for-use)
 * [License](#license)
 
