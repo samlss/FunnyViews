@@ -1,6 +1,6 @@
 ![FunnyViews](https://github.com/samlss/FunnyViews/blob/master/funny.gif)
 
-## Rome was not built in one day
+## 旋转、跳跃、我闭着眼!
 
 ## [中文](https://github.com/samlss/FunnyViews/blob/master/README-Chinese.md)<br>
 
