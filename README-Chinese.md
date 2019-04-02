@@ -1,4 +1,4 @@
-![FunnyViews](https://github.com/samlss/FunnyViews/blob/master/logo.png)
+![FunnyViews](https://github.com/samlss/FunnyViews/blob/master/funny.gif)
 
 ## 不积跬步无以至千里
 
