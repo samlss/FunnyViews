@@ -1,6 +1,6 @@
 ![FunnyViews](https://github.com/samlss/FunnyViews/blob/master/funny.gif)
 
-## 不积跬步无以至千里
+## 旋转、跳跃、我闭着眼!
 
 ## [English](https://github.com/samlss/FunnyViews/blob/master/README.md)<br>
 
