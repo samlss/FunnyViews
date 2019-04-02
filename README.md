@@ -1,4 +1,4 @@
-![FunnyViews](https://github.com/samlss/FunnyViews/blob/master/logo.png)
+![FunnyViews](https://github.com/samlss/FunnyViews/blob/master/funny.gif)
 
 ## Rome was not built in one day
 
