@@ -1,18 +1,5 @@
 ![FunnyViews](https://github.com/samlss/FunnyViews/blob/master/funny.gif)
 
-## 旋转、跳跃、我闭着眼!
-
-## [English](https://github.com/samlss/FunnyViews/blob/master/README.md)<br>
-
----
-
-**编程的一部分灵感也来源日常生活<br/><br/>
-当我在日常生活中发现一些有趣的view时，我会记录下来并且通过编程实现。<br/><br/>
-将记录于android中实现许多有趣的view，包括loadingview，progressview等等，在我创建这些view的时候，没有使用任何图片，我使用Android的原生api来绘制它们。<br/><br/>
-如果您有任何有趣的想法，可以联系我729717222@qq.com:cupid:**
-
----
-
 ## 目录
 
 * [时钟类](#%E6%97%B6%E9%92%9F%E7%B1%BB)
@@ -220,6 +207,5 @@
 # 使用说明
 #### 当你使用其中一个项目的时候, star和反馈是对我开发的认可和支持，谢谢
 
-# License
-#### 每个的项目都有对应的license，你可以进入某一个项目进行查看
+#### 如果您有任何有趣的想法，可以联系我729717222@qq.com:cupid:**
 
