@@ -1,18 +1,6 @@
 ![FunnyViews](https://github.com/samlss/FunnyViews/blob/master/funny.gif)
 
-## 旋转、跳跃、我闭着眼!
-
 ## [中文](https://github.com/samlss/FunnyViews/blob/master/README-Chinese.md)<br>
-
----
-
-**Part of programming inspiration comes from everyday life.<br/><br/>
-When i find some interesting views in the daily life, i will record and code them down.<br/><br/>
-A lot of funny views in android, include loading view, progress view, and so on, and i will continue to develop.
-When i constructing these views, i didn't use any picture data, and i am using Android's native api to paint them.<br/><br/>
-If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
-
----
 
 ## Table of Contents
 
@@ -224,6 +212,5 @@ If you have any funny idea, you can contact me 729717222@qq.com:cupid:**
 # Instructions for use
 #### When you use one of the projects, star and feedback are recognition and the best support for my development, thank you.
 
-# License
-#### Each individual project has a corresponding license, you can go to the relevant project to read the license.
+#### If you have any funny idea, you can contact me 729717222@qq.com:cupid:
 
