@@ -31,6 +31,7 @@
   * [PowerView: 一个简约的充电view](#powerview-%E4%B8%80%E4%B8%AA%E7%AE%80%E7%BA%A6%E7%9A%84%E5%85%85%E7%94%B5view)
 * [其他](#%E5%85%B6%E4%BB%96)
   * [Bling: 图形下落效果](#bling-%E5%9B%BE%E5%BD%A2%E4%B8%8B%E8%90%BD%E6%95%88%E6%9E%9C)
+  * [Bubble: 点击气泡效果](#bubble-%E7%82%B9%E5%87%BB%E6%B0%94%E6%B3%A1%E6%95%88%E6%9E%9C)
 * [使用说明](#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
 * [License](#license)
 
@@ -203,6 +204,11 @@
 <br>
 <br>
 
+## [Bubble: 点击气泡效果](https://github.com/samlss/Bubble)<br>
+![Bling](https://github.com/samlss/Bubble/blob/master/screenshots/screenshot1.gif)
+<br>
+<br>
+<br>
 
 # 使用说明
 #### 当你使用其中一个项目的时候, star和反馈是对我开发的认可和支持，谢谢
