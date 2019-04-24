@@ -33,6 +33,7 @@
   * [PowerView: A pretty charging view](#powerview-a-pretty-charging-view)  
 * [Others](#others)
   * [Bling: A shapes fall effect library for android](#bling-a-shapes-fall-effect-library-for-android)
+  * [Bubble: To display a pretty bubble when touch in android](#bubble-to-display-a-pretty-bubble-when-touch-in-android)
 * [Instructions for use](#instructions-for-use)
 * [License](#license)
 
@@ -204,6 +205,12 @@
 # Others
 ## [Bling: A shapes fall effect library for android](https://github.com/samlss/Bling)<br>
 ![Bling](https://github.com/samlss/Bling/blob/master/screenshots/screenshot5.gif)
+<br>
+<br>
+<br>
+
+## [Bubble: To display a pretty bubble when touch in android](https://github.com/samlss/Bubble)<br>
+![Bling](https://github.com/samlss/Bubble/blob/master/screenshots/screenshot1.gif)
 <br>
 <br>
 <br>
